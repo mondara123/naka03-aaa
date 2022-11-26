@@ -2,7 +2,7 @@
 #   - https://flight-manual.atom.io/hacking-atom/sections/creating-a-grammar/
 
 'scopeName': 'source.aaa'
-'name': 'เว็บแทงหวยออนไลน์ แทงหวย หวยสด ไม่มีขั้นต่ำ'
+'name': 'เว็บแทงหวยออนไลน้ ที่ huaynakaแทงหวย หวยสด ไม่มีเลขอั้น ไม่มีขั้นต่ำ่ำ'
 'fileTypes': [
   'extension'
 ]
